@@ -73,7 +73,7 @@ You can use most Emulation Station themes with this system. here are my favorite
   A dark, stylish theme with great game art.
   [Get it here](https://github.com/c64-dev/epicnoir)
 
-  - **Obsidian**  
+- **Obsidian**  
   A very minimal and clean theme.
   [Get it here](https://retropie.org.uk/forum/topic/35460/theme-obsidian-simple-and-modern-emulationstation-theme-for-retropie)
 
