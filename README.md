@@ -61,12 +61,16 @@ Once the flashing is complete, safely eject the SD card and insert it into your 
 You can use most Emulation Station themes with this system. here are my favorites.
 
 - **Art Book Next**  
-  A clean, modern theme for RetroPie.  
+  A clean, modern theme with cool covers.
   [Get it here](https://retropie.org.uk/forum/topic/33010/theme-art-book-next)
 
 - **Epic Noir**  
-  A dark, stylish theme for a cinematic experience.  
+  A dark, stylish theme with great game art.
   [Get it here](https://github.com/c64-dev/epicnoir)
+
+  - **Obsidian**  
+  A very minimal and clean theme.
+  [Get it here](https://retropie.org.uk/forum/topic/35460/theme-obsidian-simple-and-modern-emulationstation-theme-for-retropie)
 
 ---
 
