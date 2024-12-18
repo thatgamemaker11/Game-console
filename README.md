@@ -1,6 +1,7 @@
 
-> ## ⚠️ <span style="color: yellow;">**THIS IS A WORK IN PROGRESS**</span>
-> I am actively working on this project and it is not finished.
+> ## ⚠️ **THIS IS A WORK IN PROGRESS**
+> **I am actively working on this project and it is not finished.**
+
 
 # Game Console Project
 A custom game console I have made utilizing a Raspberry Pi and various components for retro gaming.
