@@ -1,6 +1,6 @@
 
 > ## ⚠️ **THIS IS A WORK IN PROGRESS**
-> **I am actively working on this project and it is not finished.**
+> **I am actively working on this project and these steps are not accurate or finished.**
 
 
 # Game Console Project
