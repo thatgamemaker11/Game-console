@@ -11,11 +11,11 @@ Teensy LC (or other board for controller) - https://www.pjrc.com/teensy/teensyLC
 5V Lipo charge boost board (or other) - https://www.adafruit.com/product/2465
 
 SD card (any above 8G will work but 32G or higher is recommended)
-#Software
+# Software
 Retropie - https://retropie.org.uk/
 RPI imager - https://www.raspberrypi.com/software/
 
-#Setup
+# Setup
 First download and install Raspberry Pi Imager.
 https://www.raspberrypi.com/software/
 
