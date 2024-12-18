@@ -71,7 +71,7 @@ You can use most Emulation Station themes with this system. here are my favorite
 
 - **Epic Noir**  
   A dark, stylish theme with great game art.
-  [Get it here](https://github.com/c64-dev/epicnoir)
+  [Get it here](https://retropie.org.uk/forum/topic/25351/epic-noir-dark-mode-theme)
 
 - **Obsidian**  
   A very minimal and clean theme.
