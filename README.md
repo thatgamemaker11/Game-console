@@ -1,7 +1,8 @@
 ---
 # THIS IS A WORK IN PROGRESS
 I am actively working on this projet and it is not finished.
----
+
+
 # Game Console Project
 A custom game console I have made utilizing a Raspberry Pi and various components for retro gaming.
 
