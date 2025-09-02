@@ -10,9 +10,9 @@ A custom game console I have made utilizing a Raspberry Pi and various component
 
 ## Parts List
 
-- **DSI Display**  
-  A Waveshare DSI display for Raspberry Pi.  
-  [Buy it here](https://www.amazon.com/dp/B0BZCXQ2MK?ref=nb_sb_ss_w_as-reorder_k0_1_21&amp=&crid=LTX1N5NMKIKT&amp=&sprefix=waveshare+dsi+display)
+- **EyeSpi Display**  
+  An Adafruit display with an attached FPC connector for SPI
+  [Buy it here](https://www.adafruit.com/product/2090)
 
 - **Adafruit Soft Tactile Buttons**  
   High-quality buttons for creating a tactile controller interface.  
@@ -27,10 +27,13 @@ A custom game console I have made utilizing a Raspberry Pi and various component
   [Buy it here](https://www.adafruit.com/product/2465)
 
 - **SD Card**  
-  Any SD card above 8GB works, but 32GB or higher is recommended.  
+  Any SD card above 8GB works, but 32GB or higher is recommended. Keep in mind that this is where all your games will be stored.
   [Learn more](https://retropie.org.uk/docs/SD-Cards/)
 
 ---
+## 3D Prints
+PRINT instuctions here
+
 
 ## Software
 You'll need the following software to set up your game console:
@@ -63,7 +66,7 @@ Once the flashing is complete, safely eject the SD card and insert it into your 
 ---
 
 ## Pick a Theme
-You can use most Emulation Station themes with this system. here are my favorites.
+You can use most Emulation Station themes with this system.  here are my favorites.
 
 - **Art Book Next**  
   A clean, modern theme with cool covers.
