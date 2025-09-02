@@ -1,4 +1,4 @@
-If you want to support this project you can [buy me a coffee!](buymeacoffee.com/Nbthegr8)
+If you want to support this project you can [buy me a coffee!](https://buymeacoffee.com/nbthegr8)
 > ## ⚠️ **THIS IS A WORK IN PROGRESS**
 > **I am actively working on this project and these steps are not accurate or finished.**
 
